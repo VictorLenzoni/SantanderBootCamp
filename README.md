@@ -1,0 +1,1 @@
+Fiz o projeto de ETL modifiquei as mensagens enviadas para a api do gpt, para assim enriquecer os dados de outra forma,antes eram dicas de investimento financeiro, optei para dicas de investimento para carreira.
